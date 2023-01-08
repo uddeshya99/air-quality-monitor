@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/air-quality-monitor/static/css/main.646de76f.css",
+    "main.js": "/air-quality-monitor/static/js/main.dc18a683.js",
+    "static/js/787.28cb0dcd.chunk.js": "/air-quality-monitor/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/air-quality-monitor/index.html",
+    "main.646de76f.css.map": "/air-quality-monitor/static/css/main.646de76f.css.map",
+    "main.dc18a683.js.map": "/air-quality-monitor/static/js/main.dc18a683.js.map",
+    "787.28cb0dcd.chunk.js.map": "/air-quality-monitor/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.646de76f.css",
+    "static/js/main.dc18a683.js"
+  ]
+}
